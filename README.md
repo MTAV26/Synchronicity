@@ -1,4 +1,4 @@
-# FWI Synchronicity Project
+# FWI Synchronicity
 
 This repository contains all the codes and data used for the Fire Weather Index (FWI) with observations (past and present) and perturbed (future). 
 All codes are available and organized for reproducibility.
