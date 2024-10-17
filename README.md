@@ -19,8 +19,7 @@ El Garroussi, S. (2024). 30-Year Canadian Fire Weather Index Simulations over Eu
 
 ## Scripts
 This repository contains all the scripts used for the synchronicity analysis in our study:
-
-### For the "past" and "present" periods (Table 1, Figure 2 and Figures S1-S4):
+### For the "past" and "present" periods (Table 1, Figure 2 and Figures S3-S5):
 #### 1. A1_synchronicity_reg_season_p95
 Performs regional synchronicity analysis for the season, considering the 95th percentile.
 #### 2. A2_synchronicity_reg_season_50_38
@@ -38,11 +37,11 @@ Generates trend plots to visualize synchronicity in different perturbation conte
 #### 7. C2_plot_surface_perturbed
 Generates additional surface plots for synchronicity analysis under perturbed conditions.
 
-### To obtain the seasonal 95th percentile (Figure S1):
-#### 8. D1_p95_season
+### To analyze trends in the Fire Weather Index (Figure S1):
+#### 8. E1_trend_FWI
+### To obtain the seasonal 95th percentile (Figure S2):
+#### 9. D1_p95_season
 
-### To analyze trends in the Fire Weather Index (Figure S5):
-#### 9. E1_trend_FWI
 
 ## Script Usage
 
